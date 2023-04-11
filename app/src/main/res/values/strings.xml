@@ -1,3 +1,51 @@
 <resources>
     <string name="app_name">ShoppingList</string>
+    <string name="shopping_category">Shopping Categories</string>
+    <string name="question_1">The intent is defined by user?</string>
+    <string name="asw_1_1">Explicit intents</string>
+    <string name="asw_1_2">Implicit intents</string>
+    <string name="question_2">Question 2</string>
+    <string name="checkbox_1">checkbox 1</string>
+    <string name="checkbox_2">checkbox 2</string>
+    <string name="checkbox_3">checkbox 3</string>
+
+    <string-array name="books">
+        <item>Maharishi’s Yoga Volume II : Yoga and Vedānta (European shipping only)</item>
+        <item>W.F. Sands, PhD", "Vernon Katz, D.Phil. (Oxon), author, Conversations with Maharishi, Volumes 1 and 2</item>
+        <item>In Volume I of Maharishi’s Yoga, we were introduced to Maharishi’s vision of Yoga and its distinction between Yoga practice and the inner state of Yoga</item>
+        <item>the silent field of pure wakefulness lying deep within the human mind. We also learned of the many misconceptions found in modern interpretations of Yoga, which have undermined the effectiveness of Yoga practices</item>
+        <item>In Volume II, Dr. Sands</item>
+        <item>Robert Keith Wallace, Ph.D., author, The Physiology of Consciousness and The Neurophysiology of Enlightenment</item>
+        <item>In Stock</item>
+    </string-array>
+
+    <string-array name="clothes">
+        <item>Clothes</item>
+        <item>W.F. Sands, PhD", "Vernon Katz, D.Phil. (Oxon), author, Conversations with Maharishi, Volumes 1 and 2</item>
+        <item>In Volume I of Maharishi’s Yoga, we were introduced to Maharishi’s vision of Yoga and its distinction between Yoga practice and the inner state of Yoga</item>
+        <item>the silent field of pure wakefulness lying deep within the human mind. We also learned of the many misconceptions found in modern interpretations of Yoga, which have undermined the effectiveness of Yoga practices</item>
+        <item>In Volume II, Dr. Sands</item>
+        <item>Robert Keith Wallace, Ph.D., author, The Physiology of Consciousness and The Neurophysiology of Enlightenment</item>
+        <item>In Stock</item>
+    </string-array>
+
+    <string-array name="food">
+        <item>Food</item>
+        <item>W.F. Sands, PhD", "Vernon Katz, D.Phil. (Oxon), author, Conversations with Maharishi, Volumes 1 and 2</item>
+        <item>In Volume I of Maharishi’s Yoga, we were introduced to Maharishi’s vision of Yoga and its distinction between Yoga practice and the inner state of Yoga</item>
+        <item>the silent field of pure wakefulness lying deep within the human mind. We also learned of the many misconceptions found in modern interpretations of Yoga, which have undermined the effectiveness of Yoga practices</item>
+        <item>In Volume II, Dr. Sands</item>
+        <item>Robert Keith Wallace, Ph.D., author, The Physiology of Consciousness and The Neurophysiology of Enlightenment</item>
+        <item>In Stock</item>
+    </string-array>
+
+    <string-array name="medicine">
+        <item>Medicine</item>
+        <item>W.F. Sands, PhD", "Vernon Katz, D.Phil. (Oxon), author, Conversations with Maharishi, Volumes 1 and 2</item>
+        <item>In Volume I of Maharishi’s Yoga, we were introduced to Maharishi’s vision of Yoga and its distinction between Yoga practice and the inner state of Yoga</item>
+        <item>the silent field of pure wakefulness lying deep within the human mind. We also learned of the many misconceptions found in modern interpretations of Yoga, which have undermined the effectiveness of Yoga practices</item>
+        <item>In Volume II, Dr. Sands</item>
+        <item>Robert Keith Wallace, Ph.D., author, The Physiology of Consciousness and The Neurophysiology of Enlightenment</item>
+        <item>In Stock</item>
+    </string-array>
 </resources>

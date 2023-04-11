@@ -41,17 +41,13 @@ class CategoryDetailActivity : AppCompatActivity() {
         }
 
         if(!arrData.isEmpty()) {
-            with(binding) {
-                name.text = arrData.get(0).toString()
-                author.text = arrData[1].toString()
-                description.text = arrData[2].toString()
-                type.text = arrData[3].toString()
-                category.text = arrData[4].toString()
-                otherAuthor.text = arrData[5].toString()
-                status.text = arrData[6].toString()
-            }
+            val adapter = ArrayAdapter<String>(this, android.R.layout.simple_spinner_dropdown_item, arrData)
+            binding.listView.adapter = adapter
         }
 
+        binding.listView.setOnItemClickListener { adapterView, view, i, l ->
+            Toast.makeText(this, arrData.get(i).toString(), Toast.LENGTH_SHORT).show()
+        }
     }
 
     fun viewText(view: View) {

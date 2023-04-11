@@ -1,13 +1,13 @@
 <resources>
     <string name="app_name">ShoppingList</string>
     <string name="shopping_category">Shopping Categories</string>
-    <string name="question_1">The intent is defined by user?</string>
+    <string name="question_1">Question 1: The intent is defined by user?</string>
     <string name="asw_1_1">Explicit intents</string>
     <string name="asw_1_2">Implicit intents</string>
-    <string name="question_2">Question 2</string>
-    <string name="checkbox_1">checkbox 1</string>
-    <string name="checkbox_2">checkbox 2</string>
-    <string name="checkbox_3">checkbox 3</string>
+    <string name="question_2">Question 2: Why do you need Intent Filters</string>
+    <string name="checkbox_1">To allow other apps to start your activity</string>
+    <string name="checkbox_2">Enables applications to receive and respond to implicit intents</string>
+    <string name="checkbox_3">Start up activities from the API</string>
 
     <string-array name="books">
         <item>Maharishi’s Yoga Volume II : Yoga and Vedānta (European shipping only)</item>

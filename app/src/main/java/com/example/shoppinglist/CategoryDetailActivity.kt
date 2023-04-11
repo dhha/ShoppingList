@@ -41,7 +41,7 @@ class CategoryDetailActivity : AppCompatActivity() {
         }
 
         if(!arrData.isEmpty()) {
-            val adapter = ArrayAdapter<String>(this, android.R.layout.simple_spinner_dropdown_item, arrData)
+            val adapter = ArrayAdapter<String>(this, android.R.layout.simple_list_item_1, arrData)
             binding.listView.adapter = adapter
         }
 
